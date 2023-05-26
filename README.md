@@ -1,9 +1,11 @@
+[![](https://www.jitpack.io/v/AlexeyGrishankov/ComposeTooltip.svg)](https://www.jitpack.io/#AlexeyGrishankov/ComposeTooltip)
+
 ![Sample app screenshot](https://github.com/skgmn/ComposeTooltip/blob/master/.github/images/sample_screenshot.png)
 
 # Setup
 
 ```gradle
-implementation "com.github.skgmn:composetooltip:0.2.0"
+implementation "com.github.AlexeyGrishankov:ComposeTooltip:0.3.1"
 ```
 
 # Tooltip method
